@@ -15,6 +15,7 @@ Run each of the programs as many times as necessary to show that different situa
 1. In the beginning of each part of this problem, introduce a named value pi, which is 3.1416. You will have to write a function my\_area that takes two numerical parameters. If the first parameter is 1, calculate the area of a circle, whose radius equals the second parameter of the function. If the first parameter is 2, calculate the volume of the sphere, whose radius equals the second parameter of the function. For other values of the first parameter and for a non-positive second parameter return a false Boolean value.
 
 A) [7 points] Implement a function my\_area using a multiple-way selection structure when checking the value of the first parameter.
+
 B) [7 points] Implement a function my\_area using a two-way selection structure when checking the value of the first parameter.
 
 2. [12 points] Write a Racket function rem\_second that takes a list as a parameter and returns a list identical to the parameter except with the second top-level element removed. If the given list does not have two elements, the function should return an empty list.
