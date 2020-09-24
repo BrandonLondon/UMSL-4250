@@ -9,7 +9,7 @@ Due date is Wednesday, November 6 (11:59 pm).
 Note that submission date has been changed!
 
 This is a programming project. Write a Python program that has an inheritance hierarchy implementing the following UML diagram:
-![Image of UMSL](project4.png "Title")
+![Image of UMSL](project4.PNG "te")
 
 ![](RackMultipart20200924-4-rahgye_html_6c57ce2726c7e903.png)
 
