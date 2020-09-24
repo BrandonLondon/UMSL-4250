@@ -12,7 +12,7 @@ This is a programming project. Write your programs using logical language Prolog
 
 1. [25 points] Consider a hypothetical family tree shown below:
 
-![Image of Diagram](project3.png)
+![Image of Diagram](project3.PNG)
 
 Create a simple database containing facts and inference rules. Include facts about family members, such as _male_, _female_, _parent_. Then add rules such as _sister_, _brother_, _sibling_, _father_, _mother_, _grandparent_. Run queries that will answer the following questions about family members: (a) Is Pete Mark&#39;s parent? (b) Is Anne Jenny&#39;s parent? (c) Who is Todd&#39;s father? (d) Who is Tom&#39;s sibling? (e) Who is Lilly&#39;s brother? (f) Who is Henry&#39;s grandparent? (g) Who is Alice&#39;s sister? (h) Is Frank Kate&#39;s brother? (i) Who is Matt&#39;s mother? (j) Is Mark Anne&#39;s brother?
 
